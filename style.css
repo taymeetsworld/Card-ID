@@ -1,0 +1,60 @@
+html {
+    background: #EFC2B8;
+
+    padding: 70px 0;
+
+}
+
+h1 {
+    float: center;
+
+    text-align: center;
+
+}
+
+#idInput {
+
+    float: center;
+
+    text-align: center;
+}
+
+img {
+
+    width: 90px;
+    
+    height: 90px;
+    
+    float: left;
+    
+    }
+    
+    #container {
+    
+    border: 5px solid black;
+
+    border-radius: 20px;
+    
+    height: 14em;
+    
+    width: 25em;
+
+    margin-top: 35px;
+
+    margin: auto;
+
+    background: #E97A62;
+
+    }
+
+    #postFullName {
+        text-align: center;
+
+        font-size: 2em;
+
+    }
+
+    p {
+        font-family: 'Josefin Sans', sans-serif;
+        margin-left: 20px;
+    }
